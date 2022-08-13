@@ -1,0 +1,8 @@
+.card{
+    overflow: hidden;
+    border: 0 !important;
+    border-radius: 20px !important;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    float: inline-end;
+    background-color: rgb(216, 27, 27);
+  }

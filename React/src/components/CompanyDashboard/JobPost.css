@@ -1,0 +1,9 @@
+.card10{
+    background-color: A0BCC2;
+    overflow: hidden;
+    border: 0 !important;
+    border-radius: 20px !important;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.678);
+    columns: 6;
+    padding: 10px;
+  }
